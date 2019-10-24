@@ -1,0 +1,19 @@
+baseURL = "https://www.publicstaticvoidmain.cz/"
+languageCode = "en-us"
+title = "Bedla development"
+theme = "beautifulhugo"
+googleAnalytics = "UA-30159303-2"
+
+[Params]
+  homeTitle = "Ivo Šmíd"
+  subtitle = "publicstaticvoidmain.cz"
+  logo = "img/avatar-icon.png"
+  favicon = "img/favicon.ico"
+#  gcse = "000190501402764446460:9vxlmjzb4qc"
+
+[Author]
+  name = "Ivo Šmíd"
+  website = "publicstaticvoidmain.cz"
+  github = "bedla"
+  twitter = "ivosmid"
+  linkedin = "publicstaticvoidmain"
